@@ -16,10 +16,12 @@
 |-------|---------|
 | **Title** | I Forgot Our Anniversary (You Didn't) |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | May 22, 2026 |
+| **Written On** | May 21, 2026 |
+| **Created On** | May 22, 2026 |
+| **Released On** | May 22, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/i-forgot-our-anniversary-you-didnt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for I Forgot Our Anniversary (You Didn't)](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/i-forgot-our-anniversary-you-didnt/) |
+| **Get License** | [Get a Licensing Quote for I Forgot Our Anniversary (You Didn't)](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=fLcns3iA1yE?https://imabusayed.github.io/i-forgot-our-anniversary-you-didnt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -49,6 +51,7 @@
 ## 🔗 Song Links
 
 - [Telegram](https://t.me/AbuSayedMusic/1893)
+- [YouTube](https://www.youtube.com/watch?v=fLcns3iA1yE)
 
 ---
 
