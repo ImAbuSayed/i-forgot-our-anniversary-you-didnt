@@ -21,7 +21,7 @@
 | **Released On** | May 22, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/i-forgot-our-anniversary-you-didnt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for I Forgot Our Anniversary (You Didn't)](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=fLcns3iA1yE?https://imabusayed.github.io/i-forgot-our-anniversary-you-didnt/) |
+| **Get License** | [License this song: I Forgot Our Anniversary (You Didn't)](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=fLcns3iA1yE?https://imabusayed.github.io/i-forgot-our-anniversary-you-didnt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
